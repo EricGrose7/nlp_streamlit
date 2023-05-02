@@ -17,3 +17,4 @@ This Streamlit app provides a powerful tool for text classification using NLP te
 setup.sh
 Procfile
 requirements.txt
+fasf
