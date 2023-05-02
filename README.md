@@ -14,7 +14,6 @@ The Streamlit app in this project provides a user interface for interacting with
 This Streamlit app provides a powerful tool for text classification using NLP techniques. The app is based on a supervised learning model that learns to predict the category of a text document based on the text content. The app includes several NLP techniques, including tokenization, stemming, stop-word removal, and vectorization, to improve the predictive power of the model. The app also includes several visualizations to help users understand the performance of the model. By using this app, users can classify text documents into categories, helping businesses understand customer sentiment, predict user behavior, and improve customer satisfaction.
 
 **Required Files**   <br>
-setup.sh
-Procfile
-requirements.txt
-fasf
+- setup.sh
+- Procfile
+- requirements.txt
